@@ -4,4 +4,8 @@ In this competition, we were asked to predict the tumor size based on certain fe
 
 With extensive EDA I found repeated entries in train and test which were directly replaced in post processing to improve scores. Furthermore, dropping rows from train dataset with 0 as target values improved score.
 
+# Features of the dataset
+![Features](mh_feature_list.JPG)
+
+# Leaderboard
 [Link to the leaderboard](https://www.machinehack.com/hackathons/melanoma_tumor_size_prediction_weekend_hackathon_15)
